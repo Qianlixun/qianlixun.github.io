@@ -1,1 +1,0 @@
-import{_ as o,a as n,o as s}from"./index-DqzQWULI.js";const a={},e=["src"];function r(c,t){return s(),n("img",{class:"loading",src:c.$config.loadingImg,alt:""},null,8,e)}const i=o(a,[["render",r],["__scopeId","data-v-06c04401"]]);export{i as L};
