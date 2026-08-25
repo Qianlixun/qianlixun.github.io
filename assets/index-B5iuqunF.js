@@ -1,1 +1,0 @@
-import{_ as c}from"./index-DEJ28qx-.js";import{c as n,o as s}from"./vue-vendor-D2KeJH19.js";const e={},r=["src"];function a(o,t){return s(),n("img",{class:"loading",src:o.$config.loadingImg,alt:""},null,8,r)}const l=c(e,[["render",a],["__scopeId","data-v-06c04401"]]);export{l as L};
